@@ -1,0 +1,7 @@
+#LibASynx Coding Style Guide (For Developers who Wants to Make Changes to the Code)
+
+The coding style of LibASynx is generally the Apache coding style, except the followings:
+1. All "{" characters are placed on the same line of the previous expression with a space separating.
+2. All structure types are explictly renamed by typedefs.
+
+See http://httpd.apache.org/dev/styleguide.html for Apache style guide.
